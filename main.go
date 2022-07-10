@@ -1,5 +1,7 @@
 package main
 
+import "github.com/ikazuak/go-banking/app"
+
 func main() {
-	Start()
+	app.Start()
 }
