@@ -1,6 +1,6 @@
 package main
 
-import "github.com/ikazuak/go-banking/app"
+import "github.com/ikauzak/go-banking/app"
 
 func main() {
 	app.Start()
